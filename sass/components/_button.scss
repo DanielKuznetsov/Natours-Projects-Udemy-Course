@@ -27,6 +27,11 @@
     color: $color-grey-dark;
   }
 
+  &--green {
+    background-color: $color-primary;
+    color: $color-white;
+  }
+
   &::after {
     content: "";
     display: inline-block;
